@@ -1,3 +1,7 @@
+/* eslint-disable */
+
+import { disable } from "workbox-navigation-preload";
+
 // This optional code is used to register a service worker.
 // register() is not called by default.
 
